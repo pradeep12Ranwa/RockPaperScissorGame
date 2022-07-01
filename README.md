@@ -1,16 +1,16 @@
 # RockPaperScissorGame
 
 Requirements:
-logging
-Random
+- logging
+- Random
 
-#Running command
+## Running command
 python game.py
 
-#For Test case
+## For Test case
 python test_game.py
 
-#Rules of Game
-Paper covers rock!
-Scissors cuts paper
-Rock smashes scissors
+## Rules of Game
+- Paper covers rock!
+- Scissors cuts paper
+- Rock smashes scissors
