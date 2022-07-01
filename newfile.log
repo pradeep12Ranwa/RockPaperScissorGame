@@ -1,0 +1,26 @@
+2022-07-01 22:23:30,204 Harmless debug Message
+2022-07-01 22:23:30,204 Info:Welcome note
+2022-07-01 22:23:30,205 Info: Taking MaxPoints as input
+2022-07-01 22:23:36,141 Info: Starting the game
+2022-07-01 22:23:40,554 Info: into printSelection function
+2022-07-01 22:23:40,560 Info: Into gameAfterInput function
+2022-07-01 22:23:40,560 Info: into tie function
+2022-07-01 22:23:46,396 Info: into printSelection function
+2022-07-01 22:23:46,402 Info: Into gameAfterInput function
+2022-07-01 22:23:51,671 Error: wrong input for user_action
+2022-07-01 22:23:57,951 Info: into printSelection function
+2022-07-01 22:23:57,956 Info: Into gameAfterInput function
+2022-07-01 22:23:57,956 Info: into tie function
+2022-07-01 22:24:03,976 Error: wrong input for user_action
+2022-07-01 22:24:06,127 Info: into printSelection function
+2022-07-01 22:24:06,132 Info: Into gameAfterInput function
+2022-07-01 22:24:11,149 Info: into printSelection function
+2022-07-01 22:24:11,155 Info: Into gameAfterInput function
+2022-07-01 22:24:13,171 Info: into printSelection function
+2022-07-01 22:24:13,177 Info: Into gameAfterInput function
+2022-07-01 22:24:13,177 Info: into tie function
+2022-07-01 22:24:15,437 Info: into printSelection function
+2022-07-01 22:24:15,442 Info: Into gameAfterInput function
+2022-07-01 22:24:15,444 Info: Game stopped as one Player wins
+2022-07-01 22:24:15,445 Info: Into the winnerDeclaration function
+2022-07-01 22:24:19,275 Info: game over
